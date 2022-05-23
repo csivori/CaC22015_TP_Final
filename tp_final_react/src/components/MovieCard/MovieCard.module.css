@@ -1,0 +1,19 @@
+.cardZona{
+  display:flex;
+  flex-flow:column wrap;
+  border: 2px dotted gray;
+  background-color: yellow;
+  height: fit-content;
+  width:fit-content;
+}
+
+.cardTitulo{
+  margin: 0px 5px;
+}
+
+.card{
+  border: 2px dotted gray;
+  background-color: red;
+  height: 80px;
+  width: 150px;
+}

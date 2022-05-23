@@ -1,0 +1,26 @@
+.carrouselZona{
+  display:flex;
+  flex-flow:column wrap;
+  border: 2px dotted black;
+  background-color: green;
+  height: fit-content;
+  width: fit-content;
+}
+
+.carrouselTitulo{
+  margin: 0px 5px;
+}
+
+.carrousel{
+  display:flex;
+  flex-flow:row wrap;
+  /* align-items:stretch; */
+  background-color: blue;
+  height: fit-content;
+  width: fit-content;
+}
+
+.carrousel2{
+  display:flex;
+  flex-flow:row wrap;
+}
